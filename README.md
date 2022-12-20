@@ -2,7 +2,7 @@
 - 👀 I’m interested in Robotic
 - 🌱 I’m currently working as a Robotic Software Engineer
 - 📫 You can reach me on Linkedin -->  https://www.linkedin.com/in/onurcankaraca/
-- - 📫 You can also see my other projects on GitLab --> https://gitlab.com/onurcankaraca 
+- 📫 You can also see my other projects on GitLab --> https://gitlab.com/onurcankaraca 
  
 <!---
 onurcankaraca/onurcankaraca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
