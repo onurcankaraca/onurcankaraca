@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onurcankaraca
+- 👋 Hi, I’m Onurcan Karaca
 - 👀 I’m interested in Robotic
 - 🌱 I’m currently working as a Robotic Software Engineer
 - 📫 You can reach me on Linkedin -->  https://www.linkedin.com/in/onurcankaraca/
